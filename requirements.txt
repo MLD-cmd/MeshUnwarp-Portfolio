@@ -1,0 +1,8 @@
+numpy==2.4.6
+Pillow==12.3.0
+opencv-python-headless==5.0.0.93
+torch==2.14.1
+torchvision==0.29.1
+easyocr==1.7.2
+pyobjc-framework-Vision==12.2.2; sys_platform == "darwin"
+pyobjc-framework-Quartz==12.2.2; sys_platform == "darwin"
